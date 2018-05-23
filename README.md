@@ -7,7 +7,7 @@ Our results on real data:
 </div>
 Results on the testing dataset:
 <div  align="center">
-<img src="./imgs/comp_sota.png" width="80%" alt="Testing Dataset">
+<img src="./imgs/comp_sota.png" width="100%" alt="Testing Dataset">
 </div>
 More cases on real photos from previous papers:
 <div  align="center">
