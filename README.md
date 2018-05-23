@@ -3,8 +3,8 @@ by [Xin Tao](http://www.xtao.website), Hongyun Gao, [Xiaoyong Shen](http://xiaoy
 
 Our results on real data:
 
-<img src="./imgs/teaser.png" width="70%" height="70%">
-<img src="./imgs/comp_real.png" width="70%" height="70%">
+<img src="./imgs/teaser.png" width="70%" height="70%" alt="Real Photo" align=center>
+<img src="./imgs/comp_real.png" width="60%" height="60%" alt="More Cases" align=center>
 
 We will soon release code for training and testing.
 
