@@ -3,9 +3,8 @@ by [Xin Tao](http://www.xtao.website), Hongyun Gao, [Xiaoyong Shen](http://xiaoy
 
 Our results on real data:
 
-![Real](./imgs/teaser.png "Real Blurry Photo")
-![More Real](./imgs/comp_real.png "More Real")
-<img src="./imgs/teaser.png" width="50%" height="50%">
+<img src="./imgs/teaser.png" width="70%" height="70%">
+<img src="./imgs/comp_real.png" width="70%" height="70%">
 
 We will soon release code for training and testing.
 
