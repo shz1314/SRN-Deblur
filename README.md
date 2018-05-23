@@ -3,7 +3,7 @@ by [Xin Tao](http://www.xtao.website), Hongyun Gao, [Xiaoyong Shen](http://xiaoy
 
 Our results on real data:
 <div  align="center">
-<img src="./imgs/teaser.png" width="70%" height="70%" alt="Real Photo">
+<img src="./imgs/teaser.png" width="80%" height="80%" alt="Real Photo">
 </div>
 Results on the testing dataset:
 <div  align="center">
@@ -11,7 +11,7 @@ Results on the testing dataset:
 </div>
 More cases on real photos from previous papers:
 <div  align="center">
-<img src="./imgs/comp_real.png" width="60%" height="60%" alt="More Cases">
+<img src="./imgs/comp_real.png" width="80%" height="80%" alt="More Cases">
 </div>
 We will soon release code for training and testing.
 
